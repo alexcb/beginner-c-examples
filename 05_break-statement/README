@@ -36,5 +36,11 @@ Output:
     surprise! i'm going to exit even though 0 isn't really negative
     we didn't square anything
 
+  example 4 -- pressing they keys: f <enter>
+
+    Give me a positive number and I will square it; if the number is negative I will exit.
+    enter number: f
+    there was an error reading the number, exiting the program.
+
 
 
