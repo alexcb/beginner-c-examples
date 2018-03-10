@@ -8,25 +8,11 @@ To run:
 
 Output:
 
-  example 1 -- inputting a positive number:
+  example 1 -- pressing 4 <enter>
+    Hello, please enter a number: 4
+    I don't care for this number
 
-    Hello, please enter a number: 10
-    You entered a positive number
-
-  example 2 -- inputting a negative number:
-
-    Hello, please enter a number: -3
-    You entered a negative number
-
-  example 3 -- inputting 0:
-
-    Hello, please enter a number: 0
-    You entered the value zero
-
-  example 4 -- inputting 99:
-
+  example 1 -- pressing 99 <enter>
     Hello, please enter a number: 99
-    You entered a positive number
     I really like this number
-
 
