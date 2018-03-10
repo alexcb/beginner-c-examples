@@ -1,0 +1,32 @@
+To compile:
+
+    gcc -Wall main.c -o example-if-else-statements
+
+To run:
+
+    ./example-if-else-statements
+
+Output:
+
+  example 1 -- inputting a positive number:
+
+    Hello, please enter a number: 10
+    You entered a positive number
+
+  example 2 -- inputting a negative number:
+
+    Hello, please enter a number: -3
+    You entered a negative number
+
+  example 3 -- inputting 0:
+
+    Hello, please enter a number: 0
+    You entered the value zero
+
+  example 4 -- inputting 99:
+
+    Hello, please enter a number: 99
+    You entered a positive number
+    I really like this number
+
+

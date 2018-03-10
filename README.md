@@ -1,2 +1,3 @@
 # beginner-c-examples
-a collection of c examples for beginners
+This is a collection of small C programs designed as examples of fundamental programming skills in C.
+

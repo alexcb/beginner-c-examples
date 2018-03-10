@@ -1,0 +1,21 @@
+To compile:
+
+    gcc -Wall main.c -o example-if-else-statements
+
+To run:
+
+    ./example-if-else-statements
+
+Output:
+
+  example 1 -- inputting the number 40
+
+    Hello, please enter a number: 40
+    I don't care for this number
+
+  example 2 -- inputting the number 99
+
+    Hello, please enter a number: 99
+    I really like this number
+
+

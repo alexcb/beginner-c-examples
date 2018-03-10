@@ -1,0 +1,40 @@
+To compile:
+
+    gcc -Wall main.c -o square
+
+To run:
+
+    ./square
+
+Output:
+
+  example 1 -- pressing the keys: 4 <enter> 6 <enter> -3 <enter>
+
+    Give me a positive number and I will square it; if the number is negative I will exit.
+    enter number: 4
+    the squared value of 4 is 16
+    enter number: 6
+    the squared value of 6 is 36
+    enter number: -3
+    together we squared 2 values
+
+  example 2 -- pressing the keys: 88 <enter> 99 <enter> -7 <enter>
+
+    Give me a positive number and I will square it; if the number is negative I will exit.
+    enter number: 88
+    the squared value of 88 is 7744
+    enter number: 99
+    I really like this number.
+    the squared value of 99 is 9801
+    enter number: -7
+    together we squared 2 values
+
+  example 3 -- pressing the keys: 0 <enter>
+
+    Give me a positive number and I will square it; if the number is negative I will exit.
+    enter number: 0
+    surprise! i'm going to exit even though 0 isn't really negative
+    we didn't square anything
+
+
+

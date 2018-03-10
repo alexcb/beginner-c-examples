@@ -1,0 +1,23 @@
+To compile:
+
+    gcc -Wall main.c -o example-while-loops
+
+To run:
+
+    ./example-while-loops
+
+Output:
+
+  example 1 -- invalid input
+
+    Hello, please enter a starting number: 5
+    Hello, please enter a ending number (must be greater than 5): 5
+    error: the supplied ending number 5 was not greater than 5
+
+  example 2 -- valid input:
+
+    Hello, please enter a starting number: -2
+    Hello, please enter a ending number (must be greater than -2): 4
+    -2 -1 0 1 2 3 4 
+    goodbye
+
